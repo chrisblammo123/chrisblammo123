@@ -4,8 +4,6 @@
 
 Mathematics and Data Science student with an interest in robotics, check out my former robotics team's GitHub page: [FRC Team 2470](https://github.com/team2470)
 
-Always down to discuss the implications of statistics in modern life.
-
 He/Him
 
 
